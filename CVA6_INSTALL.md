@@ -4,7 +4,7 @@
 ```bash
 git clone https://github.com/andreaskuster/keystone.git
 cd keystone
-git checkout dev-cva6-support
+git checkout dev
 ./fast-setup.sh
 ```
 
